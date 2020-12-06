@@ -1,0 +1,600 @@
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+node:events:304
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1286:16)
+    at listenInCluster (node:net:1334:12)
+    at Server.listen (node:net:1420:7)
+    at Function.listen (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\REALTECH\Desktop\All Code\Node-js-Projects\Passport-Local-Auth\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1083:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1112:10)
+    at Module.load (node:internal/modules/cjs/loader:948:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:789:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:72:12)
+    at node:internal/main/run_main_module:17:47
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1313:8)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
