@@ -1,2 +1,4 @@
-# This repo has a bunch of node-js projects that i have worked on and continue to work on.
-#With all the related nodejs frameworks and technologies.
+# On this project i used passport authentication specifically using the passport local strategy.
+#Authentication of Login
+#Authentication of Signin
+#Template engine => Ejs
